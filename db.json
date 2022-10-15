@@ -1,0 +1,176 @@
+{
+  "vehiculos": [
+    {
+      "id": 23892,
+      "km": null,
+      "tipo_de_inspeccion": "Inspección",
+      "observaciones": [],
+      "llantas": [
+        {
+          "id": 116738,
+          "numero_economico": "M-13-001",
+          "producto": 3153,
+          "vida": "Nueva",
+          "presion": "",
+          "profundidad_izquierda": "10",
+          "profundidad_central": "",
+          "profundidad_derecha": "",
+          "observaciones_manuales": [],
+          "minimaProfundidad": 10,
+          "posicion": "1LI",
+          "tipo_de_eje": "S2"
+        },
+        {
+          "id": 116739,
+          "numero_economico": "M-13-1",
+          "producto": 3155,
+          "vida": "Nueva",
+          "presion": "",
+          "profundidad_izquierda": "10",
+          "profundidad_central": "",
+          "profundidad_derecha": "",
+          "observaciones_manuales": [],
+          "minimaProfundidad": 10,
+          "posicion": "1RI",
+          "tipo_de_eje": "S2"
+        },
+        {
+          "id": 116740,
+          "numero_economico": "M-13-2",
+          "producto": 3153,
+          "vida": "Nueva",
+          "presion": "",
+          "profundidad_izquierda": "10",
+          "profundidad_central": "",
+          "profundidad_derecha": "",
+          "observaciones_manuales": [],
+          "minimaProfundidad": 10,
+          "posicion": "2LO",
+          "tipo_de_eje": "D4"
+        },
+        {
+          "id": 116741,
+          "numero_economico": "M-13-3",
+          "producto": 3157,
+          "vida": "Nueva",
+          "presion": "",
+          "profundidad_izquierda": "10",
+          "profundidad_central": "",
+          "profundidad_derecha": "",
+          "observaciones_manuales": [],
+          "minimaProfundidad": 10,
+          "posicion": "2LI",
+          "tipo_de_eje": "D4"
+        },
+        {
+          "id": 116743,
+          "numero_economico": "M-13-5",
+          "producto": 3163,
+          "vida": "Nueva",
+          "presion": "",
+          "profundidad_izquierda": "10",
+          "profundidad_central": "",
+          "profundidad_derecha": "",
+          "observaciones_manuales": [],
+          "minimaProfundidad": 10,
+          "posicion": "2RI",
+          "tipo_de_eje": "D4"
+        },
+        {
+          "id": 116742,
+          "numero_economico": "M-13-4",
+          "producto": 3163,
+          "vida": "Nueva",
+          "presion": "",
+          "profundidad_izquierda": "10",
+          "profundidad_central": "",
+          "profundidad_derecha": "",
+          "observaciones_manuales": [],
+          "minimaProfundidad": 10,
+          "posicion": "2RO",
+          "tipo_de_eje": "D4"
+        }
+      ]
+    },
+    {
+      "id": 23880,
+      "km": 14000,
+      "tipo_de_inspeccion": "Inspección",
+      "observaciones": [],
+      "llantas": [
+        {
+          "id": 116840,
+          "numero_economico": "memocode220710",
+          "producto": 3146,
+          "vida": "Nueva",
+          "presion": "",
+          "profundidad_izquierda": "5",
+          "profundidad_central": "5",
+          "profundidad_derecha": "5",
+          "observaciones_manuales": [],
+          "minimaProfundidad": 5,
+          "posicion": "1LI",
+          "tipo_de_eje": "S2"
+        },
+        {
+          "id": 143102,
+          "numero_economico": "memocode22086",
+          "producto": 3146,
+          "vida": "Nueva",
+          "presion": "",
+          "profundidad_izquierda": "5",
+          "profundidad_central": "5",
+          "profundidad_derecha": "5",
+          "observaciones_manuales": [],
+          "minimaProfundidad": 5,
+          "posicion": "1RI",
+          "tipo_de_eje": "S2"
+        },
+        {
+          "id": 143110,
+          "numero_economico": "memocode220814",
+          "producto": 3146,
+          "vida": "Nueva",
+          "presion": "",
+          "profundidad_izquierda": "10",
+          "profundidad_central": "10",
+          "profundidad_derecha": "10",
+          "observaciones_manuales": [],
+          "minimaProfundidad": 10,
+          "posicion": "2LI",
+          "tipo_de_eje": "D2"
+        },
+        {
+          "id": 143109,
+          "numero_economico": "memocode220813",
+          "producto": 3146,
+          "vida": "Nueva",
+          "presion": "",
+          "profundidad_izquierda": "10",
+          "profundidad_central": "10",
+          "profundidad_derecha": "10",
+          "observaciones_manuales": [],
+          "minimaProfundidad": 10,
+          "posicion": "2RI",
+          "tipo_de_eje": "D2"
+        }
+      ]
+    }
+  ],
+  "servicios": [
+    {
+      "vehiculo": 23892,
+      "llantaOrigen": 116738,
+      "llantaDestino": 116739,
+      "kmOrigen": null,
+      "id": 1664846732879
+    },
+    {
+      "vehiculo": 23880,
+      "llantaOrigen": 116840,
+      "llantaDestino": 143102,
+      "kmOrigen": 14000,
+      "id": 1664846742545
+    }
+  ]
+}
