@@ -17,7 +17,11 @@
           "profundidad_derecha": "",
           "observaciones_manuales": [],
           "minimaProfundidad": 10,
-          "posicion": "1LI",
+          "posicion" : {
+            "row" : 1,
+            "side" : "L",
+            "face" : "I"
+          },
           "tipo_de_eje": "S2"
         },
         {
@@ -31,7 +35,11 @@
           "profundidad_derecha": "",
           "observaciones_manuales": [],
           "minimaProfundidad": 10,
-          "posicion": "1RI",
+          "posicion" : {
+            "row" : 1,
+            "side" : "R",
+            "face" : "I"
+          },
           "tipo_de_eje": "S2"
         },
         {
@@ -45,7 +53,11 @@
           "profundidad_derecha": "",
           "observaciones_manuales": [],
           "minimaProfundidad": 10,
-          "posicion": "2LO",
+          "posicion" : {
+            "row" : 2,
+            "side" : "L",
+            "face" : "O"
+          },
           "tipo_de_eje": "D4"
         },
         {
@@ -59,7 +71,11 @@
           "profundidad_derecha": "",
           "observaciones_manuales": [],
           "minimaProfundidad": 10,
-          "posicion": "2LI",
+          "posicion" : {
+            "row" : 2,
+            "side" : "L",
+            "face" : "I"
+          },
           "tipo_de_eje": "D4"
         },
         {
@@ -73,7 +89,11 @@
           "profundidad_derecha": "",
           "observaciones_manuales": [],
           "minimaProfundidad": 10,
-          "posicion": "2RI",
+          "posicion" : {
+            "row" : 2,
+            "side" : "R",
+            "face" : "I"
+          },
           "tipo_de_eje": "D4"
         },
         {
@@ -87,7 +107,11 @@
           "profundidad_derecha": "",
           "observaciones_manuales": [],
           "minimaProfundidad": 10,
-          "posicion": "2RO",
+          "posicion" : {
+            "row" : 2,
+            "side" : "R",
+            "face" : "O"
+          },
           "tipo_de_eje": "D4"
         }
       ]
@@ -109,7 +133,11 @@
           "profundidad_derecha": "5",
           "observaciones_manuales": [],
           "minimaProfundidad": 5,
-          "posicion": "1LI",
+          "posicion" : {
+            "row" : 1,
+            "side" : "L",
+            "face" : "I"
+          },
           "tipo_de_eje": "S2"
         },
         {
@@ -123,7 +151,11 @@
           "profundidad_derecha": "5",
           "observaciones_manuales": [],
           "minimaProfundidad": 5,
-          "posicion": "1RI",
+          "posicion" : {
+            "row" : 1,
+            "side" : "R",
+            "face" : "I"
+          },
           "tipo_de_eje": "S2"
         },
         {
@@ -137,7 +169,11 @@
           "profundidad_derecha": "10",
           "observaciones_manuales": [],
           "minimaProfundidad": 10,
-          "posicion": "2LI",
+          "posicion" : {
+            "row" : 2,
+            "side" : "L",
+            "face" : "I"
+          },
           "tipo_de_eje": "D2"
         },
         {
@@ -151,7 +187,11 @@
           "profundidad_derecha": "10",
           "observaciones_manuales": [],
           "minimaProfundidad": 10,
-          "posicion": "2RI",
+          "posicion" : {
+            "row" : 2,
+            "side" : "R",
+            "face" : "I"
+          },
           "tipo_de_eje": "D2"
         }
       ]
